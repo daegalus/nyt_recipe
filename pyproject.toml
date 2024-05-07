@@ -11,6 +11,7 @@ repository = "https://github.com/ianbrault/nyt_recipe"
 python = "^3.9"
 requests = "^2.31"
 beautifulsoup4 = "^4.12"
+data-url = "^1.0.7"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.8"
